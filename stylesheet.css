@@ -40,6 +40,10 @@ body
     font-weight:bold;
     font-family: gadugi,Arial,Calibri;
 }
+#navbar #nav-item
+{
+    margin-left:11px;
+}
 #navbar #blogicon
 {
     float:right;
@@ -87,4 +91,8 @@ body
 #welcomecontent p
 {
     margin-top:15px;
+}
+#welcomecontent #para1
+{
+    margin:0;
 }
